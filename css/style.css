@@ -1,0 +1,21 @@
+.container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 20px;
+}
+
+.link{
+	text-decoration: none;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: rgb(175, 180, 184);
+	color: black;
+}
+
+button{
+	color: black;
+	background-color: rgb(175, 180, 184);
+}
+
